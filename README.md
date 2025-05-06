@@ -34,10 +34,10 @@
   <a href="mailto:kerosobhy64@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/‪kyrillos-sobhy‬‏-3a6187200" target="_blank">
+  <a href="https://www.linkedin.com/in/‪kyrillos-sobhy‬‏-3a6187200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.pinterest.com/kyrillos-sobhy](https://www.pinterest.com/Frontenddeveloperk/)" target="_blank">
+  <a href="https://www.pinterest.com/Frontenddeveloperk/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/kyrillos.sobhy" target="_blank">
